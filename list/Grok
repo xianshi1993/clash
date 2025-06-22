@@ -1,0 +1,15 @@
+# Grok AI Rules
+# Last updated: 2025-06-22
+
+# 内容：OpenAi Bard anthropic
+# 域名关键字匹配
+# DOMAIN-KEYWORD,openai
+# DOMAIN-KEYWORD,anthropic
+# DOMAIN-KEYWORD,Claude
+# 域名后缀匹配
+# DOMAIN,copilot.microsoft.com
+# DOMAIN-SUFFIX,bing.com
+# DOMAIN-SUFFIX,x.com
+
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
