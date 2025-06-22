@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,fast.com
 # DOMAIN-SUFFIX,1.oca.nflxvideo.net
 DOMAIN-SUFFIX,speedcheck.org
 DOMAIN-SUFFIX,speedtest.net
-DOMAIN-SUFFIX,speedtest.cn
+# DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,ustc.edu.cn
 DOMAIN-SUFFIX,dnscheck.tools
 DOMAIN-SUFFIX,whoer.net
