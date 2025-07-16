@@ -1,4 +1,51 @@
-# 4gtv-iptv 本地服务强制走台湾节点 (使用更精确的DOMAIN-SUFFIX规则)
-DOMAIN-SUFFIX,pendy.dpdns.org
-DOMAIN-SUFFIX,jdshipin.com
-DOMAIN-SUFFIX,tvfix.org
+# MoonTv 自定义视频资源规则集
+# 最后更新时间: 2025-07-16
+
+# 电影天堂资源
+DOMAIN-KEYWORD,dytt
+
+# 黑木耳资源
+DOMAIN-KEYWORD,hmr
+DOMAIN-KEYWORD,heimuer
+
+# 天涯资源
+DOMAIN-KEYWORD,tyys
+# DOMAIN-KEYWORD,tyyszy
+
+# 极速资源
+DOMAIN-KEYWORD,jisu
+DOMAIN-KEYWORD,jszy
+
+# 如意资源
+DOMAIN-KEYWORD,ryplay
+
+# 卧龙资源
+DOMAIN-KEYWORD,wlcdn
+DOMAIN-KEYWORD,wolongzy
+
+# 豆瓣资源
+DOMAIN-KEYWORD,myrqsb
+DOMAIN-KEYWORD,dbzy
+
+# 360资源
+DOMAIN-KEYWORD,360zy
+DOMAIN-KEYWORD,guoluche
+
+# 魔都资源
+DOMAIN-KEYWORD,modu
+DOMAIN-KEYWORD,mdzy
+
+# ikun资源
+DOMAIN-KEYWORD,kkzy
+
+# 非凡影视资源
+DOMAIN-KEYWORD,ffzy
+
+# 无尽资源
+DOMAIN-KEYWORD,wujin
+
+# 暴风资源
+DOMAIN-KEYWORD,bfzy
+DOMAIN-KEYWORD,b8bf
+# 针对 xx.bf.com, xxx.bf.com 等结尾的域名，使用DOMAIN-SUFFIX更精确
+# DOMAIN-SUFFIX,bf.com
