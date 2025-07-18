@@ -1,0 +1,37 @@
+# 最后更新时间: 2025-07-19
+
+# NCSoft & Blade and Soul Rules
+DOMAIN-KEYWORD,bladeandsoul
+DOMAIN-SUFFIX,ncsoft.com
+DOMAIN-KEYWORD,ncsoft
+DOMAIN-SUFFIX,plaync.com
+DOMAIN-KEYWORD,plaync
+DOMAIN-SUFFIX,nclogin.com
+DOMAIN-KEYWORD,nclogin
+DOMAIN-SUFFIX,ncupdate.com
+DOMAIN-KEYWORD,ncupdate
+DOMAIN-SUFFIX,pstatic.net
+
+# Korean Live Streaming TV Rules (Verified & Comprehensive)
+# -- SOOP & AfreecaTV (新旧品牌整合) --
+# sooplive 是当前主品牌，afreeca 是历史品牌，需全部包含以确保兼容性
+DOMAIN-SUFFIX,sooplive.co.kr
+DOMAIN-SUFFIX,sooplive.com
+DOMAIN-SUFFIX,afreecatv.com
+DOMAIN-SUFFIX,afreeca.tv
+DOMAIN-KEYWORD,sooplive
+
+# -- PandaTV (新旧域名) --
+DOMAIN-SUFFIX,pandalive.co.kr
+DOMAIN-SUFFIX,winktv.co.kr
+DOMAIN-KEYWORD,pandalive
+
+# -- PopkonTV (及其生态) --
+DOMAIN-SUFFIX,popkontv.com
+DOMAIN-SUFFIX,popkontv.co.kr
+DOMAIN-KEYWORD,popkontv
+
+# -- FlexTV --
+# 近期主流平台
+DOMAIN-SUFFIX,flextv.co.kr
+DOMAIN-KEYWORD,flextv
