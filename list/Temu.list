@@ -1,0 +1,6 @@
+# 最后更新时间: 2025-07-19
+# Temu rules:
+DOMAIN-SUFFIX,temu.com
+DOMAIN-SUFFIX,temuemail.com
+DOMAIN-KEYWORD,temu
+DOMAIN-SUFFIX,kwcdn.com
