@@ -1,5 +1,9 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 # Agu-Direct
+DOMAIN,download.epicgames.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN,msftncsi.com
 DOMAIN-SUFFIX,pc528.net
 DOMAIN-SUFFIX,pc521.net
 DOMAIN,myip.ipip.net
