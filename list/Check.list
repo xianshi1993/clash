@@ -1,11 +1,21 @@
 IP-CIDR,142.251.215.0/24,no-resolve
 
+DOMAIN-SUFFIX,wifiman.com
+DOMAIN-SUFFIX,ping.pe
+DOMAIN-SUFFIX,portchecker.co
+DOMAIN-SUFFIX,canyouseeme.org
+DOMAIN-SUFFIX,whatismyipaddress.com
+DOMAIN-SUFFIX,ipjiance.com
+DOMAIN-SUFFIX,whoer.net
+DOMAIN-SUFFIX,ip.me
+DOMAIN-SUFFIX,myip.com
+DOMAIN-SUFFIX,whatsmydns。me
+
 DOMAIN-SUFFIX,vultr.com
 # DOMAIN-SUFFIX,test-ipv6.com
 # DOMAIN-SUFFIX,ipw.cn
 
 DOMAIN-SUFFIX,ipcheck.im
-
 DOMAIN,speed.cloudflare.com
 DOMAIN-SUFFIX,fast.com
 # DOMAIN,ichnaea-web.netflix.com
