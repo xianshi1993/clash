@@ -1,17 +1,26 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 # Agu-Direct
+DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-SUFFIX,ipw.cn
+DOMAIN-SUFFIX,speedtest.cn
+DOMAIN-SUFFIX,ustc.edu.cn
+DOMAIN-SUFFIX,ip111.cn
+
 DOMAIN,download.epicgames.com
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN,msftncsi.com
 DOMAIN-SUFFIX,pc528.net
 DOMAIN-SUFFIX,pc521.net
-DOMAIN,myip.ipip.net
-DOMAIN,test-ipv6.com
-DOMAIN,ipw.cn
-DOMAIN,r.inews.qq.com
-DOMAIN,ssl.ptlogin2.qq.com
+
+DOMAIN-SUFFIX,mail.qq.com
+DOMAIN-SUFFIX,ptlogin2.qq.com
 DOMAIN,wx.mail.qq.com
+DOMAIN,ssl.ptlogin2.qq.com
+DOMAIN,myip.ipip.net
+DOMAIN,r.inews.qq.com
+# DOMAIN,test-ipv6.com
+# DOMAIN,ipw.cn
 
 # MyList
 # 域名后缀匹配
