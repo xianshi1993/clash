@@ -14,7 +14,7 @@ DOMAIN-SUFFIX,speedcheck.org
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,speedtestcustom.com
 # DOMAIN-SUFFIX,speedtest.cn
-DOMAIN-SUFFIX,ustc.edu.cn
+# DOMAIN-SUFFIX,ustc.edu.cn
 DOMAIN-SUFFIX,dnscheck.tools
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,browserleaks.com
