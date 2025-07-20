@@ -1,4 +1,13 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
+# Agu-Direct
+DOMAIN-SUFFIX,pc528.net
+DOMAIN-SUFFIX,pc521.net
+DOMAIN,myip.ipip.net
+DOMAIN,test-ipv6.com
+DOMAIN,ipw.cn
+DOMAIN,r.inews.qq.com
+DOMAIN,ssl.ptlogin2.qq.com
+DOMAIN,wx.mail.qq.com
 
 # MyList
 # 域名后缀匹配
@@ -17,38 +26,52 @@ DOMAIN-SUFFIX,hkmlqxg.xyz
 DOMAIN-SUFFIX,qingtiantv888.xyz
 DOMAIN-SUFFIX,ynhtbank.com
 DOMAIN-SUFFIX,idsduf.com
+DOMAIN-SUFFIX,juhyb.com
+DOMAIN-SUFFIX,yylx.win
+DOMAIN-SUFFIX,0033cas.com
+DOMAIN-SUFFIX,asyncdata.net
+DOMAIN-SUFFIX,2akribis.com
+DOMAIN-SUFFIX,gptacg.top
+DOMAIN-SUFFIX,gying.net
+DOMAIN-SUFFIX,51zmt.top
+DOMAIN-SUFFIX,idsduf.com
+DOMAIN-SUFFIX,bncrcloud.com
+# DOMAIN-SUFFIX,apple-bing.sbs
+DOMAIN-SUFFIX,xiaoniuyun.cc
+DOMAIN-SUFFIX,vp2.us
+DOMAIN-SUFFIX,km688.ink
+DOMAIN-SUFFIX,futo-on.com
 
 # 快猫    
-DOMAIN-SUFFIX,quickcht3.club
-DOMAIN-SUFFIX,kuaimao2.club
+# DOMAIN-SUFFIX,quickcht3.club
+# DOMAIN-SUFFIX,kuaimao2.club
 # 火烧
-DOMAIN-SUFFIX,onesubv.site
-DOMAIN-SUFFIX,oneyyds.online
+# DOMAIN-SUFFIX,onesubv.site
+# DOMAIN-SUFFIX,oneyyds.online
 # 猫耳 
-DOMAIN-SUFFIX,zhunchuanpb.com
-DOMAIN-SUFFIX,sevenka.top
+# DOMAIN-SUFFIX,zhunchuanpb.com
+# DOMAIN-SUFFIX,sevenka.top
 # BestVPN 
-DOMAIN-SUFFIX,prosubnet02.eu
-DOMAIN-SUFFIX,networklinkpro.net
+# DOMAIN-SUFFIX,prosubnet02.eu
+# DOMAIN-SUFFIX,networklinkpro.net
 # 小牛
-DOMAIN-SUFFIX,4yfu73r3a4kl.com
-DOMAIN-SUFFIX,xiaoniuyun.cc  
-DOMAIN-SUFFIX,xiaoniuyun11.com
-DOMAIN-SUFFIX,oxeuro.xyz
-
+# DOMAIN-SUFFIX,4yfu73r3a4kl.com
+# DOMAIN-SUFFIX,xiaoniuyun.cc  
+# DOMAIN-SUFFIX,xiaoniuyun11.com
+# DOMAIN-SUFFIX,oxeuro.xyz
 # 硅谷
-DOMAIN-SUFFIX,huawei-cloud.shop
-DOMAIN-SUFFIX,huawei-cloud.vip
-DOMAIN-SUFFIX,gpt-agent.cc 
+# DOMAIN-SUFFIX,huawei-cloud.shop
+# DOMAIN-SUFFIX,huawei-cloud.vip
+# DOMAIN-SUFFIX,gpt-agent.cc 
 # 无界
-DOMAIN-SUFFIX,acwct.cn
-DOMAIN-SUFFIX,472361.xyz
+# DOMAIN-SUFFIX,acwct.cn
+# DOMAIN-SUFFIX,472361.xyz
 # 冰云
-DOMAIN-SUFFIX,bingyun.ink   
-DOMAIN-SUFFIX,fafhjkah.xyz
+# DOMAIN-SUFFIX,bingyun.ink   
+# DOMAIN-SUFFIX,fafhjkah.xyz
 # 牛逼 
-DOMAIN-SUFFIX,66jc.top
-DOMAIN-SUFFIX,zhunchuanpb.com
+# DOMAIN-SUFFIX,66jc.top
+# DOMAIN-SUFFIX,zhunchuanpb.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -68,7 +91,6 @@ IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
-
 # 360
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com
@@ -78,7 +100,6 @@ DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
-
 
 # 58
 DOMAIN-SUFFIX,58.com
@@ -206,7 +227,6 @@ DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,livechina.com
 
-
 # HuaWei
 DOMAIN-SUFFIX,dbankcdn.com
 DOMAIN-SUFFIX,hc-cdn.com
@@ -218,7 +238,6 @@ DOMAIN-SUFFIX,huaweishop.net
 DOMAIN-SUFFIX,hwccpc.com
 DOMAIN-SUFFIX,vmall.com
 DOMAIN-SUFFIX,vmallres.com
-
 
 # Iqiyi
 DOMAIN-SUFFIX,71.am
@@ -326,11 +345,11 @@ DOMAIN-SUFFIX,sohurdc.com
 DOMAIN-SUFFIX,v-56.com
 
 # Sony
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,playstationnetwork.com
-DOMAIN-SUFFIX,sony.com
-DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+# DOMAIN-SUFFIX,playstation.com
+# DOMAIN-SUFFIX,playstation.net
+# DOMAIN-SUFFIX,playstationnetwork.com
+# DOMAIN-SUFFIX,sony.com
+# DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 
 # Tencent
 DOMAIN-SUFFIX,foxmail.com
@@ -373,7 +392,6 @@ DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,thundercdn.com
 DOMAIN-SUFFIX,xunlei.com
 
-
 # Public Direct CDN 公共直连
 #DOMAIN-SUFFIX,ajax.aspnetcdn.com
 #DOMAIN-SUFFIX,ajax.cloudflare.com
@@ -384,8 +402,6 @@ DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,upaiyun.com
-
-
 
 # AccelerateDirectSites
 DOMAIN-SUFFIX,10010.com
