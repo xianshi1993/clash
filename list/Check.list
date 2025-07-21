@@ -9,7 +9,9 @@ DOMAIN-SUFFIX,ipjiance.com
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,ip.me
 DOMAIN-SUFFIX,myip.com
-DOMAIN-SUFFIX,whatsmydns。me
+DOMAIN-SUFFIX,whatsmydns.me
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,ip.sb
 
 DOMAIN-SUFFIX,ipcheck.im
 DOMAIN,speed.cloudflare.com
