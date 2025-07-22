@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,myip.com
 DOMAIN-SUFFIX,whatsmydns.me
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,test-ipv6.com
 
 DOMAIN-SUFFIX,ipcheck.im
 DOMAIN,speed.cloudflare.com
