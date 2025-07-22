@@ -1,6 +1,5 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 # Agu-Direct
-DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,ipw.cn
 DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,ustc.edu.cn
