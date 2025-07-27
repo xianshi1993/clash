@@ -1,6 +1,7 @@
 # Agu-Proxy
 DOMAIN,bptv.freetv.top
 DOMAIN-SUFFIX,mpyit.com
+DOMAIN-SUFFIX,199385.xyz
 
 # IP段匹配
 IP-CIDR,142.171.133.0/24,no-resolve
