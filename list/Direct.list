@@ -24,11 +24,16 @@ DOMAIN-SUFFIX,lianjia.com
 DOMAIN-SUFFIX,58.com
 
 DOMAIN-SUFFIX,zhipin.com
+DOMAIN-SUFFIX,zpurl.cn
 DOMAIN-SUFFIX,zhaopin.com
 DOMAIN-SUFFIX,51job.com
 DOMAIN-SUFFIX,lagou.com
 DOMAIN-SUFFIX,liepin.com
 DOMAIN-SUFFIX,yupao.com
+
+DOMAIN-SUFFIX,amap.com
+DOMAIN,map.baidu.com
+DOMAIN,map.qq.com
 
 DOMAIN-SUFFIX,ceweilai.cn
 DOMAIN-SUFFIX,eduexam.cn
