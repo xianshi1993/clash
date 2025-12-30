@@ -42,6 +42,15 @@ DOMAIN-SUFFIX,zoooy111.com
 DOMAIN-SUFFIX,beidfen.com
 DOMAIN-SUFFIX,perfectlingo.com
 
+DOMAIN-SUFFIX,mob.com
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,weixin.qq.com.cn
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,ganrobot.com
+IP-CIDR,82.157.138.16/32,no-resolve
+
 DOMAIN,msftncsi.com
 DOMAIN-SUFFIX,pc528.net
 DOMAIN-SUFFIX,pc521.net
