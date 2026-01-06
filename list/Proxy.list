@@ -10,6 +10,11 @@
 # DOMAIN,bptv.freetv.top
 # DOMAIN-SUFFIX,mpyit.com
 
+DOMAIN-SUFFIX,kepub.net
+DOMAIN-SUFFIX,so1st.com
+DOMAIN-SUFFIX,dxmwx.org
+DOMAIN-SUFFIX,101kks.com
+
 # IP段匹配
 IP-CIDR,142.171.133.0/24,no-resolve
 IP-CIDR,103.115.43.0/24,no-resolve
