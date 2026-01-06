@@ -51,6 +51,10 @@ DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,ganrobot.com
 IP-CIDR,82.157.138.16/32,no-resolve
 
+DOMAIN-SUFFIX,haisou.cc
+DOMAIN-SUFFIX,ppat.top
+DOMAIN-SUFFIX,doosho.com
+
 DOMAIN,msftncsi.com
 DOMAIN-SUFFIX,pc528.net
 DOMAIN-SUFFIX,pc521.net
