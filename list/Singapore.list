@@ -1,0 +1,9 @@
+# 剑灵新加坡服  Custom Additions (3bns & Startup Page)
+# 精确匹配 (优先级最高)
+DOMAIN,upd.retro.3bns.cc
+DOMAIN,test.startup.page
+DOMAIN-SUFFIX,upd.retro.3bns.cc
+DOMAIN-SUFFIX,retro.3bns.cc
+DOMAIN-SUFFIX,3bns.cc
+DOMAIN-SUFFIX,test.startup.page
+DOMAIN-SUFFIX,startup.page
