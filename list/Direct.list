@@ -75,6 +75,7 @@ DOMAIN-SUFFIX,zoooy111.com
 DOMAIN-SUFFIX,beidfen.com
 DOMAIN-SUFFIX,perfectlingo.com
 
+DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,weixin.qq.com.cn
@@ -85,6 +86,9 @@ DOMAIN-SUFFIX,yizebom.com
 DOMAIN-SUFFIX,ganrobot.com
 DOMAIN-SUFFIX,itab.link
 DOMAIN-SUFFIX,codelife.cc
+DOMAIN-SUFFIX,eastmoney.com
+DOMAIN-SUFFIX,bdstatic.com
+DOMAIN-SUFFIX,bcebos.com
 IP-CIDR,82.157.138.16/32,no-resolve
 
 DOMAIN-SUFFIX,haisou.cc
